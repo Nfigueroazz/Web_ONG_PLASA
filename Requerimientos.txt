@@ -1,0 +1,35 @@
+Requerimientos Página Web ONG Plasa
+
+La página web debe: 
+1. Ser responsiva y adaptable a dispositivos móviles.
+
+2. Contar con las siguientes pestañas:
+a.Inicio
+- Header
+- Secciones: Noticias
+- Footer: RRSS
+b.Archivo
+- Historia
+- Misión y visión
+- Principios
+c.Equipo y Redes de Trabajo 
+- Organigrama
+- Cards: Nombre, Foto e Info socios.
+d.Proyectos
+- Breve reseña
+- Carrusel fotos u otros recursos para img
+e.¿Cómo Ayudar?
+- Imágenes y Texto invitando a colaborar
+- Inscripción de socios (Diferentes tipos)
+- Datos cuenta bancaria
+f.Contacto - Inscríbete
+- Datos de Contacto
+- Formulario conectar con (Base de Datos)
+
+3. Exponer la política de privacidad y tratamiento de la información, para enlazar con una base de datos.
+
+4. ¿Correos Institucionales? - No sé aún como funciona eso, debo averiguar.
+
+5. Mapa PLASA (Puntos de Cultura) Gestionar una plataforma, idea en proceso.
+
+6. Respetar las normas gráficas del diseño (tipografía, colores, tamaños, etc.).
